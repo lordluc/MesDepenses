@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- règle graduée -->
+    <path android:fillColor="#E9EAEC" android:pathData="M30,58h48v8h-48z" />
+    <path android:fillColor="#E9EAEC" android:pathData="M30,50h2v20h-2zM42,54h2v16h-2zM54,52h2v18h-2zM66,54h2v16h-2zM76,50h2v20h-2z" />
+    <!-- aiguille orange -->
+    <path android:fillColor="#FF4F00" android:pathData="M59,38h3v32h-3zM53.5,36h14l-7,8z" />
+</vector>
